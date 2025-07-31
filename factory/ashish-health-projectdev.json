@@ -1,0 +1,9 @@
+{
+	"name": "ashish-health-projectdev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b671d552-b2fb-429d-89ff-8bad2f5eb274",
+		"tenantId": "c99a8a97-4b34-4177-831e-b9398c82a870"
+	}
+}
